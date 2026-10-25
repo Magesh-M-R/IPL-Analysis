@@ -31,3 +31,5 @@ This project analyzes Indian Premier League (IPL) cricket data using Power BI.
 - "IPL Analysis.png" — Dashboard screenshot
 - "IPL Dataset.zip" — Add the dataset if you can share it
 
+## Author
+Magesh M R
